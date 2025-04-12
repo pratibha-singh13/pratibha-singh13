@@ -7,7 +7,7 @@ I'm a CS undergrad passionate about building scalable full-stack applications. C
 
 ### 👩‍💻 What I'm Working On
 - Backend development with **Node.js**, **Express.js**, **MongoDB**, and **SQL**
-- Exploring **RESTful APIs**, database design, and server-side architecture
+- Exploring RESTful APIs, database design, and server-side architecture
 - Building personal projects and open to tech collaborations
 
 ### 🛠️ Tech Stack
